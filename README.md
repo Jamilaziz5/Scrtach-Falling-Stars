@@ -1,4 +1,4 @@
-# Scrtach-Falling-Stars
+# Scratch-Falling-Stars
 
 A simple beginner game built in Scratch where the player controls a character to catch falling stars and earn points. 
 
